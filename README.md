@@ -1,2 +1,2 @@
 # Roguelike
-Trzeci projekt z Programowania Komputerów
+Program jest implementacją prostej platformówki, inspirowany grą Rogue.
